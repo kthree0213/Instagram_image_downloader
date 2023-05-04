@@ -18,7 +18,7 @@ target_dir = "/Users/k/Documents/inpc/mitsui"\
 username = 'mitsui.hisashi'\
 cookie ='看下图' 
 
-![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookie.png)
+![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookievimg.png)
 
 
 ### loadimage.py：
