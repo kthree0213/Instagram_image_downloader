@@ -35,4 +35,7 @@ user_id = '57185715084'\
 cookie = ''不会获取的看底部图片
 
 
-![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookievimg.png)
+![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookie.png)
+
+### 运行结果
+![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/operationresult%20.png)
