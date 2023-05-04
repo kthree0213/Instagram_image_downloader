@@ -16,10 +16,7 @@ username可以查看博主首页，——> https://www.instagram.com/{username}
 举例：\
 target_dir = "/Users/k/Documents/inpc/mitsui"\
 username = 'mitsui.hisashi'\
-cookie ='看下图' 
-
-![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookie.png)
-
+cookie ='' 不会获取的看底部图片
 
 ### loadimage.py：
 
@@ -35,4 +32,7 @@ user_id为next_max_id“_”后面的部分
 target_dir = "/Users/k/Documents/inpc/mitsui"\
 next_max_id = '3071960909401083979_57185715084'\
 user_id = '57185715084'\
-cookie = ''
+cookie = ''不会获取的看底部图片
+
+
+![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookievimg.png)
