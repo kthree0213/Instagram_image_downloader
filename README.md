@@ -10,7 +10,7 @@
 运行后开始下载博主首页的12张照片集，最后会输出一个rext_max_id(下一页的id)，用于loadimage.py
 
 用法：\
-在代码中填入 target_dir（图片保存路径）、username（博主username）、cookie(输入你通过游览器获得的请求cookie)\
+在代码中填入 target_dir（图片保存路径）、username（博主username）、cookie(输入你通过浏览器获得的请求cookie)\
 username可以查看博主首页，——> https://www.instagram.com/{username}
 
 举例：\
@@ -25,7 +25,7 @@ cookie ='' 不会获取的看底部图片
 
 
 用法：\
-在代码中填入 target_dir（图片保存路径）、next_max_id（下载目标页id）、user_id（博主user_id）、cookie(输入你通过游览器获得的请求cookie)\
+在代码中填入 target_dir（图片保存路径）、next_max_id（下载目标页id）、user_id（博主user_id）、cookie(输入你通过浏览器获得的请求cookie)\
 user_id为next_max_id“_”后面的部分
 
 举例：\
@@ -34,7 +34,7 @@ next_max_id = '3071960909401083979_57185715084'\
 user_id = '57185715084'\
 cookie = ''不会获取的看底部图片
 
-
+### cookie获取方法，使用浏览器
 ![image](https://github.com/kthree0213/Instagram_image_downloader/blob/main/cookie.png)
 
 ### 运行结果
