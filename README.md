@@ -34,8 +34,12 @@ next_max_id = '3071960909401083979_57185715084'\
 user_id = '57185715084'\
 cookie = ''不会获取的看底部图片
 
-### cookie获取方法，使用浏览器
+### cookie获取方法，使用浏览器（2024.8更新）
 ![image](https://github.com/user-attachments/assets/2927a625-b0ba-4593-9119-c112204fdc88)
+
+userid获取方法，使用浏览器（2024.8更新）
+![image](https://github.com/user-attachments/assets/b4e6ff41-a1b7-41a4-b064-541d0527f356)
+
 
 
 ### 运行结果
